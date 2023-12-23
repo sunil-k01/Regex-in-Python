@@ -54,5 +54,7 @@ Explore the importance of regular expressions in various applications and unders
 
 Feel free to contribute by adding new code samples, improving documentation, or suggesting additional mnemonic images. Your contributions make this repository more valuable for the community.
 
+------
+
 
 🚀 Start your journey into the world of regular expressions and become a regex pro with "Regex in Python"! 🎉
