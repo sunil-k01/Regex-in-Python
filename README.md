@@ -13,7 +13,6 @@ Welcome to the "Regex in Python" repository! 🚀 This comprehensive resource is
 7. [Why Regular Expressions?](#why-regular-expressions)
 8. [Repository Contents](#repository-contents)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Introduction
 
@@ -55,8 +54,5 @@ Explore the importance of regular expressions in various applications and unders
 
 Feel free to contribute by adding new code samples, improving documentation, or suggesting additional mnemonic images. Your contributions make this repository more valuable for the community.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE) - feel free to use and share the content as you see fit. Happy coding!
 
 🚀 Start your journey into the world of regular expressions and become a regex pro with "Regex in Python"! 🎉
